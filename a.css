@@ -1,0 +1,19 @@
+
+h1{
+  color:red;
+  text-align:right;
+}
+
+div{
+  background-color: #74992e;
+  text-align: left;
+  margin-left: 300;
+  padding-left: 100px;
+  height: 200px;
+  width: 700px;
+  border: 10px red;
+}
+
+#top{
+  background-color: #74992e;
+}
